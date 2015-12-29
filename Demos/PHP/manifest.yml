@@ -1,0 +1,6 @@
+---
+applications:
+- name: php-app
+  memory: 128M
+  random-route: true
+  
